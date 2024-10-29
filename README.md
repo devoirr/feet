@@ -1,2 +1,2 @@
 # Unexpected error occured.
-# Try again later.
+Try again later.
